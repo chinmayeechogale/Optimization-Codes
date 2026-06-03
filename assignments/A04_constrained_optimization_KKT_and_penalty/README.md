@@ -1,4 +1,4 @@
-# Assignment 04 – Constrained Optimization: KKT Conditions & Penalty Methods
+# Constrained Optimization: KKT Conditions & Penalty Methods
 
 ## Problem Statement
 
