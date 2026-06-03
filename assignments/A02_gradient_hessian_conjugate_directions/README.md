@@ -20,8 +20,7 @@ Implement and apply gradient and Hessian computations to analyze quadratic and n
 
 | File | Description |
 |------|-------------|
-| `A02_P1_conjugate_directions_quadratic.m` | Gradient, Hessian, and conjugate direction verification for a quadratic function |
-| `A02_P2_penalty_single_constraint.m` | Penalty method applied to a single-constraint 1D optimization problem |
+| `P1_conjugate_directions_quadratic.m` | Gradient, Hessian, and conjugate direction verification for a quadratic function |
 
 ## How to Run
 
