@@ -1,4 +1,4 @@
-# Assignment 02 – Gradient, Hessian & Conjugate Directions
+# Gradient, Hessian & Conjugate Directions
 
 ## Problem Statement
 
