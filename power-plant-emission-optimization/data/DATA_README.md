@@ -6,11 +6,9 @@ The dataset used in this project contains historical operating data from a coal-
 
 The dataset is publicly available on Kaggle:
 
-**Dataset:** Power Plant Steam Turbine and Boiler Metrics (or similar — update this link once confirmed)
+**Dataset:** [Power Plant Steam Turbine and Boiler Metrics](https://www.kaggle.com/datasets/pavanjitsubash/power-plant-data-steam-turbine-and-boiler-metrics)
 
 To download:
-1. Create a free Kaggle account at [kaggle.com](https://www.kaggle.com)
-2. Navigate to the dataset page
 3. Download the CSV file
 4. Place it in this `data/` folder
 5. Rename it to `plant_data_2022.csv` (or update the filename in the surrogate model scripts)
