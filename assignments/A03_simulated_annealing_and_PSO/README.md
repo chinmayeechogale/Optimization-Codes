@@ -1,4 +1,4 @@
-# Assignment 03 – Simulated Annealing & Particle Swarm Optimization
+# Simulated Annealing & Particle Swarm Optimization
 
 ## Problem Statement
 
