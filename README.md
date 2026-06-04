@@ -17,7 +17,7 @@ MATLAB implementations of gradient-based, heuristic, and multi-objective optimiz
 ```
 Optimization-Codes/
 |
-|-- assignments/                          # Coursework assignments (MATLAB)
+|-- methods/                          # Coursework assignments (MATLAB)
 |   |-- A02_gradient_hessian_conjugate_directions/   # Gradient, Hessian, conjugate directions, penalty methods
 |   |-- A03_simulated_annealing_and_PSO/             # Simulated annealing & PSO for constrained design
 |   |-- A04_constrained_optimization_KKT_and_penalty/ # KKT conditions, reduced systems, penalty methods
